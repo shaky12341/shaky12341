@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shaky12341.
-- 👀 I’m interested in Programming languages.
-- 🌱 I’m currently learning Python, Linux and AWS.
-- 💞️ I’m looking to collaborate on Programming languages.
+- 👋 Hi, I’m @shaky12341
+- 👀 I’m interested in Programming languages
+- 🌱 I’m currently learning Python, Linux and AWS
+- 💞️ I’m looking to collaborate on Programming languages
 - 📫 How to reach me - https://github.com/shaky12341
 
 <!---
