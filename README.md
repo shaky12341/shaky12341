@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shaky12341
 - 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Python, Linux and AWS
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Programming languages
-- 📫 How to reach me - https://github.com/shaky12341
+- 📫 How to reach me - www.linkedin.com/in/astha-kumari-51a608206
 
 <!---
 shaky12341/shaky12341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
